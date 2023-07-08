@@ -1,0 +1,135 @@
+const posts = [
+  {
+    id: "1",
+    image: "https://shorturl.at/elnQS",
+    text: "ᴍɪʟʟᴇɴɴɪᴀʟ ᴀꜱᴄᴇɴᴅᴇɴᴛᴇ ʙᴏᴏᴍᴇʀ",
+    react: "5,691,354 likes",
+    comment: "View all 204 comments",
+    timeSet: "20 min ago",
+    author: {
+      name: "𝗞𝗲𝘁𝘁𝘆 𝗣𝗮𝘀𝘀𝗔",
+      ima: "https://shorturl.at/IUVZ6",
+      content:
+        "Una carrellata di opinioni “da musicista e sociologa” di venerdì scorso,",
+    },
+  },
+  {
+    id: "2",
+    image: "https://shorturl.at/mtDV6",
+    text: "Join my NFT journey on @Binance. Click the link below to get started",
+    react: " 10,797,175 Likes",
+    comment: "View all 2044 comments",
+    author: {
+      name: "Cristiano Ronaldo",
+      ima: "https://shorturl.at/girvx",
+      content: "Obrigado a todos os Portugueses pelo apoio🇵🇹🙏🏽💪🏽",
+    },
+  },
+  {
+    id: "3",
+    image: "https://shorturl.at/djE46",
+    text: "Instagram oficial de Ronaldinho Gaúcho. Duas vezes eleito o melhor do mundo pela FIFA.@nooke.ag@bruxo10.bet",
+    react: "115,459 likes",
+    comment: "View all 1120 comments",
+    timeSet: "40 min ago",
+    author: {
+      name: "Ronaldo de Assis Moreira",
+      ima: "https://shorturl.at/atOX1",
+      content: "Bruxo CONFIRMADO no jogo ‘Lendas do Galo’! 🤙🏽 🐔",
+    },
+  },
+  {
+    id: "4",
+    image: "https://shorturl.at/cenLW",
+    text: "This is the only official Instagram of Zakir Naik. All other Instagrams are fake and fraudulent",
+    react: "25,70,069 likes",
+    comment: "View all 21,044 comments",
+    timeSet: "50 min ago",
+    author: {
+      name: "Dr Zakir Naik",
+      ima: "https://shorturl.at/grCL6",
+      content: "The Beast will Emerge from the Earth and Speak to the People",
+    },
+  },
+  {
+    id: "5",
+    image: "https://shorturl.at/hkms0",
+    text: "Brother & Manager of @m10_official - CEO @m10_esports 🎮🕹 | Part of @m10family",
+    react: "80,048 likes",
+    comment: "View all 8546 comments",
+    timeSet: "60 min ago",
+    author: {
+      name: "Mutlu Özil",
+      ima: "https://shorturl.at/cpMY9",
+      content:
+        "Bize bu zamana kadar yaşattığın gurur için sana minnettarım canım kardeşim",
+    },
+  },
+  {
+    id: "6",
+    image: "https://shorturl.at/dfksP",
+    text: "info@thebenzemakarim.com",
+    react: "457,564 likes",
+    comment: "View all 10,258 comments",
+    timeSet: "1 Hour ago",
+    author: {
+      name: "Karim Benzema",
+      ima: "https://shorturl.at/pxM38",
+      content: "Depuis le début on est gang",
+    },
+  },
+  {
+    id: "7",
+    image: "https://shorturl.at/abezJ",
+    text: "Cricket. Help all. Chairman @safridifoundation. @hopenotoutofficial Boom Boom",
+    react: "26,123 likes",
+    comment: "View all 5869 comments",
+    timeSet: "1 Hour 5 min ago",
+    author: {
+      name: "Shahid Afridi",
+      ima: "https://shorturl.at/nrQR5",
+      content:
+        "Thank you, London! Together, we have taken a step forward to safeguard access to clean water",
+    },
+  },
+  {
+    id: "8",
+    image: "https://shorturl.at/gGLNZ",
+    text: "Artist | Humanitarian",
+    react: " 2,409,514 likes",
+    comment: "View all 54,10,869 comments",
+    timeSet: "1 Hour 10 min ago",
+    author: {
+      name: "Salman Khan",
+      ima: "https://shorturl.at/cnFP2",
+      content: "EID UL ADHA MUBARAK",
+    },
+  },
+  {
+    id: "9",
+    image: "https://shorturl.at/aexI6",
+    text: "Occasional Thespian",
+    react: "788,257 likes",
+    comment: "View all 50,869 comments",
+    timeSet: "1 Hour 15 min ago",
+    author: {
+      name: "Johnny Depp",
+      ima: "https://shorturl.at/fpqPR",
+      content:
+        "Happy birthday my dearest brother Jeff. You are with me, always. You are everything",
+    },
+  },
+  {
+    id: "10",
+    image: "https://shorturl.at/pMNPX",
+    text: "Public figure",
+    react: "166,670 likes",
+    comment: "View all 20,869 comments",
+    timeSet: "1 Hour 30 min ago",
+    author: {
+      name: "John Abraham",
+      ima: "https://shorturl.at/jptN8",
+      content: "Some wars are fought even outside the battlefield.",
+    },
+  },
+];
